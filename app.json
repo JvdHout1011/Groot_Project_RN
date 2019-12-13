@@ -3,7 +3,7 @@
     "name": "groot_project",
     "slug": "groot_project_RN",
     "privacy": "public",
-    "sdkVersion": "36.0.0",
+    "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
       "android",
